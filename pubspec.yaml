@@ -1,0 +1,22 @@
+name: isolate_builder
+description: A flutter package to do work in another isolate to render the ui
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.0.0-241.0.dev <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  somehow_i_manage: ^1.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
